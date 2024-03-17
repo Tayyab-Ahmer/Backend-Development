@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "update",
+            "dob": "update",
+            "cnic": "update"
+        },
+        {
+            "id": 2,
+            "name": "ali2",
+            "dob": "01-01-2002",
+            "cnic": "1234567"
+        }
+    ]
+}
