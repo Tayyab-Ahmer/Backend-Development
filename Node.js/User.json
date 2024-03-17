@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "ali",
+            "dob": "2000-02-02",
+            "cnic_number": "12345-1234567-8",
+            "created_at": "2024-03-11T09:38:58.434Z",
+            "updated_at": "2024-03-11T09:38:58.436Z"
+        },
+        {
+            "id": 2,
+            "name": "ali",
+            "dob": "2000-02-02",
+            "cnic_number": "12345-1234567-8",
+            "created_at": "2024-03-11T09:38:58.434Z",
+            "updated_at": "2024-03-11T09:38:58.436Z"
+        },
+        {
+            "id": 3,
+            "name": "updata name",
+            "dob": "update dob",
+            "cnic_number": "update 12345",
+            "created_at": "new Date().toISOString()",
+            "updated_at": "2024-03-11T10:31:49.508Z"
+        }
+    ]
+}
